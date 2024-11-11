@@ -9,8 +9,8 @@
 
 ### 1. Mahasiswa Page (Read)
 
-<img src="images/home.png" height="300">
-<img src="images/read.png" height="300">
+<img src="images/home.png" height="500">
+<img src="images/read.png" height="500">
 
 #### Endpoints
 1. Tampil Data
@@ -23,9 +23,9 @@
 
 ### 2. Tambah Data (Create)
 
-<img src="images/create1.png" height="300">
-<img src="images/create2.png" height="300">
-<img src="images/create3.png" height="300">
+<img src="images/create1.png" height="500">
+<img src="images/create2.png" height="500">
+<img src="images/create3.png" height="500">
 
 #### Endpoints
 2. Tambah Data
@@ -39,9 +39,9 @@
 
 ### 3. Edit Data (Update)
 
-<img src="images/edit1.png" height="300">
-<img src="images/edit2.png" height="300">
-<img src="images/edit3.png" height="300">
+<img src="images/edit1.png" height="500">
+<img src="images/edit2.png" height="500">
+<img src="images/edit3.png" height="500">
 
 #### Endpoints
 3. Edit Data
@@ -55,9 +55,9 @@
 
 ### 4. Hapus Data (Delete)
 
-<img src="images/del1.png" height="300">
-<img src="images/del2.png" height="300">
-<img src="images/del3.png" height="300">
+<img src="images/del1.png" height="500">
+<img src="images/del2.png" height="500">
+<img src="images/del3.png" height="500">
 
 #### Endpoints
 4. Hapus Data
@@ -66,5 +66,5 @@
    - Parameter: id
 
 - Konfirmasi dialog sebelum hapus data
-- terdapat opsi 'Ya' atau 'Tidak'
-- Data akan berhasil dihapus ketika mengklik pilihan 'Ya'
+- terdapat opsi 'YA' atau 'TIDAK'
+- Data akan berhasil dihapus ketika mengklik pilihan 'YA'
